@@ -1,2 +1,3 @@
 c - if blocked path or data inside of path or data
 i - if blocked path == path or blocked data == data
+a - allows ONLY paths that contain this in path
